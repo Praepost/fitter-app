@@ -8,7 +8,7 @@
 - Миграции БД `Flyway`
 - Шаблонизатор `FreeMarker`
 - Почтовый сервис `Spring Mail` через `yandex api`
-- Captcha через `google api`
+- reCAPTCHA v2 `google api`
 
 
 # Как запустить 
